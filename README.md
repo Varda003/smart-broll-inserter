@@ -5,6 +5,14 @@ The focus is on **planning and reasoning**, not final video rendering.
 
 ---
 
+## Output Preview
+
+## UI Preview
+
+![Smart B-Roll Inserter UI](https://github.com/Varda003/smart-broll-inserter/tree/main/images/Pic1)
+
+![Smart B-Roll Inserter UI](https://github.com/Varda003/smart-broll-inserter/tree/main/images/Pic2)
+
 ## How to Run Locally
 
 ### 1. Backend (Python)

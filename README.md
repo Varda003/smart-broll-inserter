@@ -79,7 +79,7 @@ The primary output is a structured JSON timeline describing:
 
 Varda Hanwant
 * 📧 Email: (varda.hanwant03@gmail.com)
-* 🔗 GitHub: ()
+* 🔗 GitHub: (https://github.com/Varda003)
 
 
 ## License

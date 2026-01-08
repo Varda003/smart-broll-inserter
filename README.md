@@ -9,9 +9,9 @@ The focus is on **planning and reasoning**, not final video rendering.
 
 ## UI Preview
 
-![Smart B-Roll Inserter UI](https://github.com/Varda003/smart-broll-inserter/tree/main/images/Pic1)
+![Smart B-Roll Inserter UI](https://github.com/Varda003/smart-broll-inserter/blob/main/images/Pic1.png)
 
-![Smart B-Roll Inserter UI](https://github.com/Varda003/smart-broll-inserter/tree/main/images/Pic2)
+![Smart B-Roll Inserter UI](https://github.com/Varda003/smart-broll-inserter/blob/main/images/Pic2.png)
 
 ## How to Run Locally
 
